@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "RN_movies_study",
+    "slug": "RN_movies_study",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "RN_movies_study"
+}
