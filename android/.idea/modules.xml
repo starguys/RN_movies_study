@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNmoviesstudy.iml" filepath="$PROJECT_DIR$/.idea/modules/RNmoviesstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNmoviesstudy.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNmoviesstudy.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-276941847/RNmoviesstudy.expo.iml" filepath="$PROJECT_DIR$/.idea/modules/-276941847/RNmoviesstudy.expo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-417262996/RNmoviesstudy.expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/-417262996/RNmoviesstudy.expo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/48787051/RNmoviesstudy.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/48787051/RNmoviesstudy.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-947208004/RNmoviesstudy.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-947208004/RNmoviesstudy.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1391783309/RNmoviesstudy.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/-1391783309/RNmoviesstudy.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1427761567/RNmoviesstudy.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-1427761567/RNmoviesstudy.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1110896055/RNmoviesstudy.expo-modules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1110896055/RNmoviesstudy.expo-modules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1701771950/RNmoviesstudy.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1701771950/RNmoviesstudy.expo-splash-screen.iml" />
+    </modules>
+  </component>
+</project>
